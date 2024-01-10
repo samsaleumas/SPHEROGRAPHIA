@@ -1,3 +1,7 @@
+# Créée dans le cadre du projet SPHEROGRAPHIA 
+# par Sarah Wroblewski
+# 2023-2024
+
 from urllib.request import urlopen, Request
 import os
 import numpy as np        
