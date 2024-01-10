@@ -6,3 +6,4 @@ Depuis plusieurs années, les globes virtuels sont de plus en plus utilisés com
 L’analyse technique est ce qui peut-être déduit des intentions et méthodes des auteur·ice·s pour traiter, représenter et diffuser leurs données via des scripts qui permettent de visualiser les globes. C’est donc avec ces scripts via les Uniform Resource Locator (URL) qui y mènent que l’on va questionner et analyser. La requête sur le Web est l’outil central qui nous permet d’accéder à ces informations notamment pour faire du WebScraping ou pour utiliser les WebCrawler. 
 L'universalité de la structure et la syntaxe des langages web permet d'extraire des informations de manière systématique sur tous les globes notamment grâce aux contenus des balises, leurs attributs et leurs contenus. 
 
+Les scripts contiennent également l'automatisation de la création des graphiques associé.
