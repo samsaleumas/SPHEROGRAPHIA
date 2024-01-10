@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+Author: Sarah Wroblewski, 2023-2024
+"""
+
 from urllib.request import urlopen, Request
 import os
 import numpy as np        
