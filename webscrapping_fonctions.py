@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 # Créée dans le cadre du projet SPHEROGRAPHIA 
 # par Sarah Wroblewski
 # 2023-2024
+=======
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+Author: Sarah Wroblewski, 2023-2024
+"""
+>>>>>>> 52459700fe8f9699085519bbe4afaf31e2ba2a25
 
 from urllib.request import urlopen, Request
 import os
